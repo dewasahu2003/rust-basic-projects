@@ -10,3 +10,5 @@
 ### Third: calculator 
 - a simple web app
 - made using `actix_web`
+- run `cargo run`
+- avaialble at `127.0.0.1:8080`
