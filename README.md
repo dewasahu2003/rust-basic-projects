@@ -6,3 +6,7 @@
 - a basic cli 
 - run `cargo run play --name=marco` 
 - for help run `cargo run -- --help`
+
+### Third: calculator 
+- a simple web app
+- made using `actix_web`
